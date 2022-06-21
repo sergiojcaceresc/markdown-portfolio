@@ -1,4 +1,4 @@
 Se reemplaza este contenido siguiendo el tutorial.
-# Esto es un encabezado <h1>, que es el más grande
-## Esto es un encabezado <h2>
-###### Esto es un encabezado <h6>, que es el más pequeño
+# Esto es un encabezado UNO, que es el más grande
+## Esto es un encabezado DOS
+###### Esto es un encabezado SEIS, que es el más pequeño
